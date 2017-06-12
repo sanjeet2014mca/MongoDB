@@ -1,4 +1,4 @@
 # MongoDB
  Basic operation java with mongodb
 
-Note:If you have basic aware about mondodb then you import java maven project & implement it.
+Note:If you have basic know about mondodb then you import the given java maven project & implement it.
